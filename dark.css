@@ -1,0 +1,44 @@
+html body * a,
+a > h3 > span,
+div > div > div > span.w8qArf > a.fl,
+a > span {
+    color: #dd0000 !important;
+    font-weight: bold !important;
+    font-size: 1rem !important;
+}
+cite {
+    color: #cc0000 !important;
+}
+div {
+    background-color: #202124 !important;
+    color: #e5e5e5 !important;
+}
+em {
+    color: #ff00ff !important;
+}
+img {
+    z-index: 9;
+}
+input,
+span {
+    color: #e5e5e5 !important;
+}
+span svg {
+    color: c9c9c9 !important;
+}
+.action-menu {
+    margin: 0px 12px;
+}
+.action-menu > a,
+.action-menu > a:hover {
+    margin-top: 0.5rem;
+}
+.action-menu-item {
+    background-color: #283032 !important;
+}
+.GHDvEf {
+    background-color: #cc0000 !important;
+}
+#foot td {
+    color: #ff00ff;
+}

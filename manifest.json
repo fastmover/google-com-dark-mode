@@ -1,0 +1,10 @@
+{
+    "name": "Google.com Dark Mode",
+    "description": "Gives Google.com a Dark Mode",
+    "version": "0.0.1",
+    "content_scripts": [{
+        "matches": ["https://*.google.com/*"],
+        "css": ["dark.css"]
+    }],
+    "manifest_version": 2
+}
